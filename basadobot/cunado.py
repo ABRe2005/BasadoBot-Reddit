@@ -386,6 +386,17 @@ nombres = [
     "Melendi",
     "Bambi",
     "Nelson Mandela",
+    "Don Quijote De La Mancha",
+    "Sancho Panza",
+    "Nisio Isin",
+    "Hirohiko Araki",
+    "Hideaki Anno",
+    "Jacob Zuma",
+    "Yoweri Museveni",
+    "Bobi Wine",
+    "Ibn Battuta",
+    "Abderramán I",
+    "Al-Hákam I",
     "Tu puta madre"
 ]
 
